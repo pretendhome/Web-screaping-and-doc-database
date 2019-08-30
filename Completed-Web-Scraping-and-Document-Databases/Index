@@ -1,0 +1,44 @@
+Day 1
+    Activity 1:
+        01-Ins_MongoBasics:
+            -Create DataBase
+            -Create Collection
+            -insert data
+            -See all collections in a database
+            -Find all data in a Collection
+        02-Stu_MongoClass/
+            -Use the command line to create a classDB database.
+            -Use find commands to get:
+        03-Ins_CrudMongo
+            -how to update data
+            -updateMany
+            -Show how to delete an entry with remove
+            -Show how to drop a collection
+            -Show how to drop a database
+        04-Stu_DumpsterDB
+            -Create the "divers" collection and then insert a couple documents into it
+            -Update 
+            -Remove from the collection
+        05-Ins_PyMongo
+            -Module used to connect Python with MongoDb
+            -The default port used by MongoDB is 27017
+            -Define the 'classDB' database in Mongo
+            -Insert a document into the 'students' collection using import pymongo
+            -Update a document
+            -Add an item to a document array
+            -Delete a field from a document
+            -Delete a document from a collection
+        06-Stu_MongGrove
+            -A dictionary that represents the document to be inserted
+            -Insert document into collection
+            -Verify results
+Day 2
+    Activity:
+    
+    
+    
+    
+    
+    
+Day 3
+    Activity:
